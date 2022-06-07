@@ -1,0 +1,57 @@
+
+* {
+    box-sizing: border-box;
+}
+body {
+    background: teal;
+    margin: 0;
+
+}
+.haut {
+
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+
+}
+
+.proverbe {
+    color: white;
+
+}
+
+#prov-el {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+}
+
+p {
+    text-align: center;
+    margin-top: 50px;
+}
+
+h4 {
+    text-align: center;
+
+}
+
+.bas {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#butt-el {
+    background: blue;
+    color: white;
+    width: 45%;
+    border: none;
+    border-radius: 5px;
+    padding: 7px 7px;
+    margin-top: 50px;
+    cursor: pointer;
+
+    
+}
